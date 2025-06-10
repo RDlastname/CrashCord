@@ -1,1 +1,1 @@
-CrashCord is a Discord Crash Fix to help people who can't figure out basic problems such as outdated structured files and helps by getting rid of unwanted or removed files from Discord clearing clutter!
+CrashCord is a Discord Crash Fix to help people who can't figure out basic problems such as outdated structured files and helps by getting rid of unwanted or removed files from Discord clearing clutter! Tutorial --> https://youtu.be/waTf7e2IP8g
